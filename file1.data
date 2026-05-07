@@ -3,4 +3,6 @@ def mi_primer_funcion
 
 mi_primer_funcion()
 
+print ("Cambio realizado en remoto")
+
 print ("Cambio realizado en local")
