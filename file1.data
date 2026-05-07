@@ -1,0 +1,4 @@
+def mi_primer_funcion
+  print("Esta es mi primer función")
+
+mi_primer_funcion()
